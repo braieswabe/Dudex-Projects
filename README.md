@@ -14,6 +14,12 @@ npm install
 npm run dev
 ```
 
+## Build Check
+
+```bash
+npm run build
+```
+
 ## Notes
 
 - Uses Next.js App Router + TypeScript.
