@@ -12,6 +12,10 @@
 .DS_Store
 *.log
 
+# auto-generated
+next-env.d.ts
+*.tsbuildinfo
+
 # env files
 .env
 .env.local
